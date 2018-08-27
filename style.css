@@ -1,0 +1,28 @@
+* {
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body {
+	background-color: #3498DB;
+}
+
+.Maintenance {
+	padding: 300px;
+}
+img {
+	display: block;
+	margin: auto;
+	padding-bottom: 10px;
+}
+
+.h2 {
+
+	font-family: 'Segoe UI';
+	font-size: 50px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+
+}
